@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eresdesre
+- 👋 Hi, I’m @
 - 👀 I’m interested in ...software engineering, cyber security, data science, database administaration
 - 🌱 I’m currently learning ...software engineering,developing
 - 💞️ I’m looking to collaborate on ...systems analysts, developers, penetration, hacking, database penetration.
