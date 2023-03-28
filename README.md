@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eresdesre
-- 👀 I’m interested in ...software engineering, cyber security, data science, database administaration
-- 🌱 I’m currently learning ...software engineering,developing
-- 💞️ I’m looking to collaborate on ...systems analysts, developers, penetration, hacking, database penetration.
+- 👋 Hi, I’m @godsamongus
+- 👀 I’m interested in ...cybersecurity
+- 🌱 I’m currently learning ...HTB and web dev
+- 💞️ I’m looking to collaborate with developers and pentesters
 - 📫 How to reach me ... geraldmutua3@gmail.com 
 
 <!---
